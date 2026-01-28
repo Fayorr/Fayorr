@@ -4,8 +4,6 @@
 
 ### 🚀 Web Developer | 🇳🇬 Nigeria | 💡 Building Digital Experiences
 
-![MasterHead](https://i.imgur.com/xcCS9ja.gif)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fayokunmi-osho/)[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fayokunmiosho.com)[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fayokunmiosho@gmail.com)
 
 </div>
@@ -75,9 +73,6 @@ const Fayorr = {
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Fayorr&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fayorr&theme=tokyonight" />
-</div>
 
 ---
 
@@ -124,6 +119,3 @@ I'm always interested in collaborating on interesting projects or just having a 
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
