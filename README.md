@@ -73,17 +73,6 @@ const Fayorr = {
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Fayorr&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
-
----
-
-## 🎯 Current Focus
-
-- 🔭 Building full-stack web applications with modern frameworks
-- 🌱 Deep diving into **cloud technologies** and **DevOps practices**
-- 🐧 Exploring the depths of **GNU/Linux** systems
-- 💬 Always happy to discuss **Movies, Gaming, or Tech**
-- 🎨 Crafting pixel-perfect user interfaces
-
 ---
 
 ## 📈 Contribution Graph
@@ -118,4 +107,3 @@ I'm always interested in collaborating on interesting projects or just having a 
 </div>
 
 ---
-
