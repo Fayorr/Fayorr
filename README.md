@@ -15,7 +15,7 @@
 ```typescript
 const Fayorr = {
     location: "Lagos, Nigeria 🇳🇬",
-    email: "fayokunmiosho@gmail.com,
+    email: "fayokunmiosho@gmail.com",
     role: "Full Stack Web Developer",
     currentFocus: "Building scalable web applications",
     interests: ["Web Dev", "Linux", "Movies 🎬", "Gaming 🎮"],
@@ -71,14 +71,6 @@ const Fayorr = {
 
 <div align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Fayorr&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
 ---
